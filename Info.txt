@@ -1,0 +1,2 @@
+Installing the previous or his dependencies  (  Client Side  )
+npm i --legacy-peer-deps
